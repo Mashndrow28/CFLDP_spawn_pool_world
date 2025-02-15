@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "unown-1",
+            "pokemon": "unown",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "15-55",
+            "weight": 20.0,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_end"
+                ]
+            }
+        }
+    ]
+}

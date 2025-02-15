@@ -1,0 +1,1 @@
+Mainly using Cobblemon's spawn data. https://gitlab.com/cable-mc/cobblemon/-/tree/main/common/src/main/resources/data/cobblemon/spawn_pool_world

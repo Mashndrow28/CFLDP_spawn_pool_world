@@ -1,0 +1,64 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "kingambit-1",
+            "pokemon": "kingambit",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "38-98",
+            "weight": 0.5,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_peak"
+                ]
+            }
+        },
+        {
+            "id": "kingambit-2",
+            "pokemon": "kingambit",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "38-98",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_bamboo"
+                ]
+            }
+        },
+        {
+            "id": "kingambit-3",
+            "pokemon": "kingambit",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "38-98",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_snowy_forest"
+                ]
+            }
+        },
+        {
+            "id": "kingambit-4",
+            "pokemon": "kingambit",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "38-98",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountain"
+                ]
+            }
+        }
+    ]
+}

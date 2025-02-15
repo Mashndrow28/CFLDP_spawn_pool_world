@@ -1,0 +1,60 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "houndstone-1",
+            "pokemon": "houndstone",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "35-53",
+            "weight": 1,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_spooky"
+                ],
+                "timeRange": "night"
+            }
+        },
+        {
+            "id": "houndstone-2",
+            "pokemon": "houndstone",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "35-53",
+            "weight": 25.0,
+            "condition": {
+                "biomes": [
+                    "nullspace:crystal_peaks"
+                ]
+            }
+        },
+        {
+            "id": "houndstone-3",
+            "pokemon": "houndstone",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "35-53",
+            "weight": 25.0,
+            "condition": {
+                "biomes": [
+                    "nullscape:shadowlands"
+                ]
+            }
+        }
+	]
+}
