@@ -1,0 +1,44 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "grapploct-1",
+            "pokemon": "grapploct",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "33-49",
+            "weight": 1.9,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_beach"
+                ]
+            }
+        },
+        {
+            "id": "grapploct-1",
+            "pokemon": "grapploct",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "rare",
+            "level": "33-49",
+            "weight": 2.9,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_ocean",
+                    "#cobblemon:is_cold_ocean",
+                    "#cobblemon:is_frozen_ocean",
+                    "#cobblemon:is_lukewarm_ocean"
+                ]
+            }
+        }
+    ]
+}

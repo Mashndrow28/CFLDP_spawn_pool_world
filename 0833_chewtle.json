@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "chewtle-1",
+            "pokemon": "chewtle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "7-13",
+            "weight": 2.1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_swamp",
+                    "#cobblemon:is_river",
+                    "#cobblemon:is_beach"
+                ]
+            }
+        }
+    ]
+}

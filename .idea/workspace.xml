@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Gen 5 finished" />
+    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Fixed a typo">
+      <change afterPath="$PROJECT_DIR$/0734_yungoos.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0735_gumshoos.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0736_grubbin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0737_charjabug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0738_vikavolt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0741_oricorio.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0765_oranguru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0766_passimian.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0780_drampa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0819_skwovet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0820_greedent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0833_chewtle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0834_drednaw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0837_rolycoly.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0838_carkol.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0839_coalossal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0843_silicobra.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0844_sandaconda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0852_clobbopus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0853_grapploct.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739940179357</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Gen 6 finished">
+      <option name="closed" value="true" />
+      <created>1739946803401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739946803401</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed a typo">
+      <option name="closed" value="true" />
+      <created>1739971314167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739971314167</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +141,8 @@
     <MESSAGE value="Cobblemon Forgotten Legends Spawn Pool" />
     <MESSAGE value="Gen 2,3,4,9 finished(excluding some paradoxes)" />
     <MESSAGE value="Gen 5 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gen 5 finished" />
+    <MESSAGE value="Gen 6 finished" />
+    <MESSAGE value="Fixed a typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed a typo" />
   </component>
 </project>

@@ -1,0 +1,45 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "greedent-1",
+            "pokemon": "greedent",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "treetop",
+            "bucket": "uncommon",
+            "level": "25-53",
+            "weight": 2.1,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_forest",
+                    "#cobblemon:is_snowy_forest"
+                ]
+            }
+        },
+        {
+            "id": "greedent-2",
+            "pokemon": "greedent",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "25-53",
+            "weight": 1.7,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_forest",
+                    "#cobblemon:is_snowy_forest"
+                ]
+            }
+        }
+    ]
+}

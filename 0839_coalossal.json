@@ -1,0 +1,77 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "coalossal-1",
+            "pokemon": "coalossal",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "14-27",
+            "weight": 0.8,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_savanna"
+                ]
+            }
+        },
+        {
+            "id": "coalossal-2",
+            "pokemon": "coalossal",
+            "presets": [
+                "lava"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "14-27",
+            "weight": 1.6,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_volcanic"
+                ]
+            }
+        },
+        {
+            "id": "coalossal-3",
+            "pokemon": "coalossal",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "14-27",
+            "weight": 1.2,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_mountain"
+                ]
+            }
+        },
+        {
+            "id": "coalossal-4",
+            "pokemon": "coalossal",
+            "presets": [
+                "lava"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "14-27",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_cave"
+                ]
+            }
+        }
+    ]
+}

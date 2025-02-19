@@ -1,0 +1,56 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "charjabug-1",
+            "pokemon": "charjabug",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "5-23",
+            "weight": 5.1,
+            "condition": {
+                "timeRange": "12000-23000",
+                "biomes": [
+                    "#cobblemon:is_jungle",
+                    "#cobblemon:is_taiga"
+                ]
+            },
+            "anti-condition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
+                ]
+            }
+        },
+        {
+            "id": "charjabug-2",
+            "pokemon": "charjabug",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "treetop",
+            "bucket": "rare",
+            "level": "5-23",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_jungle",
+                    "#cobblemon:is_taiga"
+                ]
+            },
+            "anti-condition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
+                ]
+            }
+        }
+    ]
+}

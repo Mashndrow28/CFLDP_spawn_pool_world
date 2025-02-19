@@ -1,0 +1,45 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "skwovet-1",
+            "pokemon": "skwovet",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "treetop",
+            "bucket": "common",
+            "level": "5-23",
+            "weight": 2.5,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_forest",
+                    "#cobblemon:is_snowy_forest"
+                ]
+            }
+        },
+        {
+            "id": "skwovet-2",
+            "pokemon": "skwovet",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "5-23",
+            "weight": 2.3,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_forest",
+                    "#cobblemon:is_snowy_forest"
+                ]
+            }
+        }
+    ]
+}
