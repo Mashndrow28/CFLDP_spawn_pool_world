@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "brambleghast-1",
+            "pokemon": "brambleghast",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "45-61",
+            "weight": 5.5,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_arid",
+                    "#cobblemon:is_savanna",
+                    "#cobblemon:is_desert"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
+                ]
+            }
+        }
+    ]
+}

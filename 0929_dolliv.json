@@ -1,0 +1,29 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "dolliv-1",
+            "pokemon": "dolliv",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "35-52",
+            "weight": 3.8,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_plains",
+                    "#cobblemon:is_savanna"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_arid",
+                    "#cobblemon:is_freezing"
+                ]
+            }
+        }
+    ]
+}

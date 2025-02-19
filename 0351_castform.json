@@ -1,0 +1,102 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "castform-1",
+            "pokemon": "castform",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "42-49",
+            "weight": 5.0,
+            "condition": {
+                "isRaining": false,
+                "biomes": [
+                    "#cobblemon:is_mountain"
+                ]
+            },
+            "anticondition":{
+                "biomes": [
+                    "#cobblemon:is_freezing",
+                    "#cobblemon:is_arid"
+                ]
+            }
+        },
+        {
+            "id": "castform-2",
+            "pokemon": "castform forecast_form=sunny",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "42-49",
+            "weight": 5.0,
+            "condition": {
+                "isRaining": false,
+                "biomes": [
+                    "#cobblemon:is_arid"
+                ]
+            },
+            "anticondition":{
+                "biomes": [
+                    "#cobblemon:is_freezing"
+                ]
+            }
+        },
+        {
+            "id": "castform-3",
+            "pokemon": "castform forecast_form=snowy",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "42-49",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
+                ]
+            },
+            "anticondition":{
+                "biomes": [
+                    "#cobblemon:is_arid",
+                    "#cobblemon:is_thermal"
+                ]
+            }
+        },
+        {
+            "id": "castform-4",
+            "pokemon": "castform forecast_form=rainy",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "42-49",
+            "weight": 5.0,
+            "condition": {
+                "isRaining": true,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            },
+            "anticondition":{
+                "biomes": [
+                    "#cobblemon:is_freezing",
+                    "#cobblemon:is_arid",
+                    "#cobblemon:is_thermal"
+                ]
+            }
+        }
+    ]
+}

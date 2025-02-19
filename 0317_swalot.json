@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "swalot-1",
+            "pokemon": "swalot",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "44-69",
+            "weight": 3.0,
+            "weightMultiplier": {
+                "multiplier": 1.5,
+                "condition": {
+                    "isRaining": true
+                }
+            },
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_swamp"
+                ]
+            }
+        }
+    ]
+}
