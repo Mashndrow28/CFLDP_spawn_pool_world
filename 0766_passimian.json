@@ -7,10 +7,10 @@
             "id": "passimian-1",
             "pokemon": "passimian",
             "presets": [
-                "natural"
+                "treetop"
             ],
             "type": "pokemon",
-            "context": "treetop",
+            "context": "grounded",
             "bucket": "ultra-rare",
             "level": "40-63",
             "weight": 0.5,

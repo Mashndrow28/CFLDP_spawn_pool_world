@@ -32,11 +32,10 @@
             "id": "grubbin-2",
             "pokemon": "grubbin",
             "presets": [
-                "natural",
-                "wild"
+                "treetop"
             ],
             "type": "pokemon",
-            "context": "treetop",
+            "context": "grounded",
             "bucket": "uncommon",
             "level": "5-23",
             "weight": 2.1,

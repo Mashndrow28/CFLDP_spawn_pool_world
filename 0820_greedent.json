@@ -7,10 +7,10 @@
             "id": "greedent-1",
             "pokemon": "greedent",
             "presets": [
-                "natural"
+                "treetop"
             ],
             "type": "pokemon",
-            "context": "treetop",
+            "context": "grounded",
             "bucket": "uncommon",
             "level": "25-53",
             "weight": 2.1,

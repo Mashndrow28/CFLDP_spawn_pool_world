@@ -7,10 +7,10 @@
             "id": "skwovet-1",
             "pokemon": "skwovet",
             "presets": [
-                "natural"
+                "treetop"
             ],
             "type": "pokemon",
-            "context": "treetop",
+            "context": "grounded",
             "bucket": "common",
             "level": "5-23",
             "weight": 2.5,

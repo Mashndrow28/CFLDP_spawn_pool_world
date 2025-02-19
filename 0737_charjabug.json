@@ -32,11 +32,10 @@
             "id": "charjabug-2",
             "pokemon": "charjabug",
             "presets": [
-                "natural",
-                "wild"
+                "treetop"
             ],
             "type": "pokemon",
-            "context": "treetop",
+            "context": "grounded",
             "bucket": "rare",
             "level": "5-23",
             "weight": 3.2,
