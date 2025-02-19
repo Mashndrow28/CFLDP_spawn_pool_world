@@ -1,0 +1,34 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tympole-1",
+            "pokemon": "tympole",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "11-25",
+            "weight": 3.0,
+            "weightMultipliers": [
+                {
+                    "multiplier": 2.0,
+                    "condition": {
+                        "isRaining": true
+                    }
+                }
+            ],
+            "condition": {
+                "timeRange": "night",
+                "biomes": [
+                    "#cobblemon:is_river",
+                    "#cobblemon:is_swamp"
+                ]
+            }
+        }
+    ]
+}
