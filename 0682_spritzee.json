@@ -1,0 +1,61 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "spritzee-1",
+            "pokemon": "spritzee",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "25-39",
+            "weight": 1.2,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_magical"
+                ]
+            }
+        },
+        {
+            "id": "spritzee-2",
+            "pokemon": "spritzee",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "25-39",
+            "weight": 0.3,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_jungle"
+                ]
+            }
+        },
+        {
+            "id": "spritzee-3",
+            "pokemon": "spritzee",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "25-39",
+            "weight": 0.8,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_mushroom"
+                ]
+            }
+        }
+    ]
+}

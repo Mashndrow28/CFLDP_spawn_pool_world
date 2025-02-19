@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Cobblemon Forgotten Legends Spawn Pool">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Gen 5 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +29,21 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2t3R3putRZ9aippWv1jKiD5nk43" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mashndrow/Desktop/CFLDP_spawn_pool_world&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Mashndrow/Desktop/CFLDP_spawn_pool_world"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +61,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739579016375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Gen 2,3,4,9 finished(excluding some paradoxes)">
+      <option name="closed" value="true" />
+      <created>1739924344422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739924344422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Gen 5 finished">
+      <option name="closed" value="true" />
+      <created>1739940179357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739940179357</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,7 +99,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Cobblemon Forgotten Legends Spawn Pool" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cobblemon Forgotten Legends Spawn Pool" />
+    <MESSAGE value="Gen 2,3,4,9 finished(excluding some paradoxes)" />
+    <MESSAGE value="Gen 5 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gen 5 finished" />
   </component>
 </project>

@@ -1,0 +1,61 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "aromatisse-1",
+            "pokemon": "aromatisse",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "29-42",
+            "weight": 1.9,
+            "condition": {
+                "timeRange": "12000-23000",
+                "biomes": [
+                    "#cobblemon:is_magical"
+                ]
+            }
+        },
+        {
+            "id": "aromatisse-2",
+            "pokemon": "aromatisse",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "25-39",
+            "weight": 2.3,
+            "condition": {
+                "timeRange": "12000-23000",
+                "biomes": [
+                    "#cobblemon:is_jungle"
+                ]
+            }
+        },
+        {
+            "id": "aromatisse-3",
+            "pokemon": "aromatisse",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "25-39",
+            "weight": 1.9,
+            "condition": {
+                "timeRange": "12000-23000",
+                "biomes": [
+                    "#cobblemon:is_mushroom"
+                ]
+            }
+        }
+    ]
+}

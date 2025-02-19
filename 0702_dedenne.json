@@ -1,0 +1,38 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "dedenne-1",
+            "pokemon": "dedenne",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-42",
+            "weight": 0.6,
+            "weightMultipliers": [
+                {
+                    "multiplier": 1.5,
+                    "condition": {
+                        "isThundering": true
+                    }
+                }
+            ],
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_taiga"
+                ]
+            },
+            "anti-condition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
+                ]
+            }
+        }
+    ]
+}

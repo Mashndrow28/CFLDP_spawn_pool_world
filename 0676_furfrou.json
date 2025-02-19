@@ -1,0 +1,43 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "furfrou-1",
+            "pokemon": "furfrou",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "25-39",
+            "weight": 3.0,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_plains"
+                ]
+            }
+        },
+        {
+            "id": "furfrou-2",
+            "pokemon": "furfrou",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "25-39",
+            "weight": 0.3,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_jungle"
+                ]
+            }
+        }
+    ]
+}
