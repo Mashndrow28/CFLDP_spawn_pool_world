@@ -73,6 +73,23 @@
                     "#cobblemon:nether/is_toxic"
                 ]
             }
+        },
+        {
+            "id": "weezing-4",
+            "pokemon": "weezing galarian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "45-52",
+            "weight": 1.2,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_swamp"
+                ]
+            }
         }
     ]
 }

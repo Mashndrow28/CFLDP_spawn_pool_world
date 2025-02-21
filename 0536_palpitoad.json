@@ -7,7 +7,7 @@
             "id": "palpitoad-1",
             "pokemon": "palpitoad",
             "presets": [
-                "natural"
+                "water"
             ],
             "type": "pokemon",
             "context": "submerged",

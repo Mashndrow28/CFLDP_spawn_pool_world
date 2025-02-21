@@ -13,7 +13,7 @@
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "common",
+            "bucket": "uncommon",
             "level": "7-21",
             "weight": 2.0,
             "condition": {
@@ -40,7 +40,7 @@
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "common",
+            "bucket": "uncommon",
             "level": "7-21",
             "weight": 2.0,
             "condition": {
@@ -49,6 +49,48 @@
                 "biomes": [
                     "#cobblemon:is_jungle",
                     "#cobblemon:is_tropical_island"
+                ]
+            }
+        },
+        {
+            "id": "wormadam-3",
+            "pokemon": "wormadam form=sandy",
+            "presets": [
+                "natural",
+                "treetop"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "2-21",
+            "weight": 1.6,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_desert",
+                    "#cobblemon:is_tropical_island"
+                ]
+            }
+        },
+        {
+            "id": "wormadam-4",
+            "pokemon": "wormadam form=trash",
+            "presets": [
+                "natural",
+                "treetop"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "2-21",
+            "weight": 1.7,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_magical",
+                    "#cobblemon:is_floral"
                 ]
             }
         }

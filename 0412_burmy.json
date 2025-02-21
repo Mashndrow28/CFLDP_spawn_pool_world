@@ -15,7 +15,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "2-22",
-            "weight": 5.0,
+            "weight": 3.1,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
@@ -42,13 +42,55 @@
             "context": "grounded",
             "bucket": "common",
             "level": "2-21",
-            "weight": 5.0,
+            "weight": 3.2,
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
                     "#cobblemon:is_jungle",
                     "#cobblemon:is_tropical_island"
+                ]
+            }
+        },
+        {
+            "id": "burmy-3",
+            "pokemon": "burmy form=sandy",
+            "presets": [
+                "natural",
+                "treetop"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "2-21",
+            "weight": 1.2,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_desert",
+                    "#cobblemon:is_tropical_island"
+                ]
+            }
+        },
+        {
+            "id": "burmy-4",
+            "pokemon": "burmy form=trash",
+            "presets": [
+                "natural",
+                "treetop"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "2-21",
+            "weight": 1.46,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_magical",
+                    "#cobblemon:is_floral"
                 ]
             }
         }

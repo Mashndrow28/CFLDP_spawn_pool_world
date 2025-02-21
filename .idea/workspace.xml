@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Finished Gen 7 and 8 (Complete Dex w/o Legends)" />
+    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Fixed misplaced treetop preset" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,15 +35,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mashndrow/Desktop/CFLDP_spawn_pool_world"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mashndrow/Desktop/CFLDP_spawn_pool_world&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -101,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739978312548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished Gen 7 and 8 (Complete Dex w/o Legends)">
+      <option name="closed" value="true" />
+      <created>1739979158374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739979158374</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed misplaced treetop preset">
+      <option name="closed" value="true" />
+      <created>1739979232634</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739979232634</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +146,7 @@
     <MESSAGE value="Gen 6 finished" />
     <MESSAGE value="Fixed a typo" />
     <MESSAGE value="Finished Gen 7 and 8 (Complete Dex w/o Legends)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Gen 7 and 8 (Complete Dex w/o Legends)" />
+    <MESSAGE value="Fixed misplaced treetop preset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed misplaced treetop preset" />
   </component>
 </project>

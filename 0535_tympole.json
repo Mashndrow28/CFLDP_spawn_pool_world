@@ -7,7 +7,7 @@
             "id": "tympole-1",
             "pokemon": "tympole",
             "presets": [
-                "natural"
+                "water"
             ],
             "type": "pokemon",
             "context": "submerged",

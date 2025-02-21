@@ -7,10 +7,10 @@
             "id": "seismitoad-1",
             "pokemon": "seismitoad",
             "presets": [
-                "natural"
+                "water"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "surface",
             "bucket": "rare",
             "level": "45-71",
             "weight": 3.0,
