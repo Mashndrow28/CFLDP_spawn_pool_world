@@ -29,7 +29,7 @@
         },
         {
             "id": "tauros-combat-2",
-            "pokemon": "tauros paldean_breed=combat",
+            "pokemon": "tauros paldean bull_breed=combat",
             "presets": [
                 "natural"
             ],
@@ -53,7 +53,7 @@
         },
         {
             "id": "tauros-blaze-3",
-            "pokemon": "tauros paldean_breed=blaze",
+            "pokemon": "tauros paldean bull_breed=blaze",
             "presets": [
                 "natural"
             ],
@@ -77,7 +77,7 @@
         },
         {
             "id": "tauros-aqua-4",
-            "pokemon": "tauros paldean_breed=aqua",
+            "pokemon": "tauros paldean bull_breed=aqua",
             "presets": [
                 "natural"
             ],

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Added variants to some Pokémon and did some minor fixes." />
+    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Forgot Rufflet :D" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740156422434</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added variants to some Pokémon and did some minor fixes.">
+      <option name="closed" value="true" />
+      <created>1740156568096</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740156568096</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

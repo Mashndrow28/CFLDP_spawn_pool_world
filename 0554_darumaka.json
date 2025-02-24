@@ -89,6 +89,26 @@
                     "#cobblemon:nether/is_toxic"
                 ]
             }
+        },
+        {
+            "id": "darumaka-5",
+            "pokemon": "darumaka",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "7-32",
+            "weight": 2.2,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_freezing",
+                    "#cobblemon:is_snowy_forest"
+                ]
+            }
         }
     ]
 }
