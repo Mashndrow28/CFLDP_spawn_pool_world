@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="Forgot Rufflet :D" />
+    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="- Fixed Tauros breeds.&#10;Added missing variants to following Pokemons:&#10;- Sandshrew&#10;- Sandslash&#10;- Corsola&#10;- Darumaka&#10;- Darmanitan&#10;- Stunfisk&#10;- Avalugg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740156568096</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="- Fixed Tauros breeds.&#10;Added missing variants to following Pokemons:&#10;- Sandshrew&#10;- Sandslash&#10;- Corsola&#10;- Darumaka&#10;- Darmanitan&#10;- Stunfisk&#10;- Avalugg">
+      <option name="closed" value="true" />
+      <created>1740415285232</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740415285232</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +172,7 @@
     <MESSAGE value="Finished Gen 7 and 8 (Complete Dex w/o Legends)" />
     <MESSAGE value="Fixed misplaced treetop preset" />
     <MESSAGE value="Added variants to some Pokémon and did some minor fixes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added variants to some Pokémon and did some minor fixes." />
+    <MESSAGE value="- Fixed Tauros breeds.&#10;Added missing variants to following Pokemons:&#10;- Sandshrew&#10;- Sandslash&#10;- Corsola&#10;- Darumaka&#10;- Darmanitan&#10;- Stunfisk&#10;- Avalugg" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixed Tauros breeds.&#10;Added missing variants to following Pokemons:&#10;- Sandshrew&#10;- Sandslash&#10;- Corsola&#10;- Darumaka&#10;- Darmanitan&#10;- Stunfisk&#10;- Avalugg" />
   </component>
 </project>

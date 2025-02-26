@@ -11,14 +11,35 @@
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "35-48",
-            "weight": 2.0,
+            "bucket": "ultra-rare",
+            "level": "32-58",
+            "weight": 1.2,
             "condition": {
+                "timeRange": "day",
                 "canSeeSky": true,
-		"minY": 100,
+		        "minY": 100,
                 "biomes": [
-                    "#cobblemon:is_mountain"
+                    "minecraft:birch_forest"
+                ]
+            }
+        },
+        {
+            "id": "altaria-2",
+            "pokemon": "altaria",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "35-48",
+            "weight": 1.5,
+            "condition": {
+                "timeRange": "day",
+                "canSeeSky": true,
+		        "minY": 100,
+                "biomes": [
+                    "#cobblemon:is_magical"
                 ]
             }
         }

@@ -7,34 +7,35 @@
             "id": "azumarill-1",
             "pokemon": "azumarill",
             "presets": [
-                "underwater"
-                ],
+                "sand"
+            ],
             "type": "pokemon",
-            "context": "submerged",
+            "context": "grounded",
             "bucket": "rare",
-            "level": "20-35",
+            "level": "23-55",
             "weight": 2.5,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#minecraft:is_river"
+                    "#cobblemon:is_river"
                 ]
             }
         },
         {
-            "id": "azumarill-1",
+            "id": "azumarill-2",
             "pokemon": "azumarill",
+            "presets": [
+                "sand"
+            ],
             "type": "pokemon",
-            "context": "submerged",
+            "context": "grounded",
             "bucket": "rare",
-            "level": "30-40",
+            "level": "23-52",
             "weight": 3.0,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:warm_ocean",
-                    "minecraft:lukewarm_ocean",
-                    "minecraft:deep_lukewarm_ocean"
+                    "#cobblemon:is_beach"
                 ]
             }
         }
