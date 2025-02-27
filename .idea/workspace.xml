@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="- Fixed Tauros breeds.&#10;Added missing variants to following Pokemons:&#10;- Sandshrew&#10;- Sandslash&#10;- Corsola&#10;- Darumaka&#10;- Darmanitan&#10;- Stunfisk&#10;- Avalugg" />
+    <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="- Renewed Azumarill, Azurill, Altaria, Amoonguss, Axew, Araquanid, Applin, Arctibax&#10;- Added Trubbish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0876_indeedee.json" beforeDir="false" afterPath="$PROJECT_DIR$/0876_indeedee.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740415285232</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="- Renewed Azumarill, Azurill, Altaria, Amoonguss, Axew, Araquanid, Applin, Arctibax&#10;- Added Trubbish">
+      <option name="closed" value="true" />
+      <created>1740539346587</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740539346587</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +184,7 @@
     <MESSAGE value="Fixed misplaced treetop preset" />
     <MESSAGE value="Added variants to some Pokémon and did some minor fixes." />
     <MESSAGE value="- Fixed Tauros breeds.&#10;Added missing variants to following Pokemons:&#10;- Sandshrew&#10;- Sandslash&#10;- Corsola&#10;- Darumaka&#10;- Darmanitan&#10;- Stunfisk&#10;- Avalugg" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Fixed Tauros breeds.&#10;Added missing variants to following Pokemons:&#10;- Sandshrew&#10;- Sandslash&#10;- Corsola&#10;- Darumaka&#10;- Darmanitan&#10;- Stunfisk&#10;- Avalugg" />
+    <MESSAGE value="- Renewed Azumarill, Azurill, Altaria, Amoonguss, Axew, Araquanid, Applin, Arctibax&#10;- Added Trubbish" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Renewed Azumarill, Azurill, Altaria, Amoonguss, Axew, Araquanid, Applin, Arctibax&#10;- Added Trubbish" />
   </component>
 </project>
