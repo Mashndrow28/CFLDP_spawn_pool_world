@@ -14,12 +14,11 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "45-55",
-            "weight": 6.6,
+            "weight": 3.7,
             "condition": {
                 "biomes": [
-                    "#cobblemon:is_swamp"
-                    
-
+                    "#cobblemon:is_swamp",
+                    "#cobblemon:is_arid"
                 ]
             }
         },
@@ -46,26 +45,6 @@
                 "biomes": [
                     "#cobblemon:is_deep_dark",
                     "#cobblemon:is_mountain"
-                ]
-            }
-        },
-        {
-            "id": "drapion-3",
-            "pokemon": "drapion",
-            "presets": [
-                "natural",
-                "wild"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "rare",
-            "level": "45-55",
-            "weight": 3.1,
-            "condition": {
-                "biomes": [
-                    "#cobblemon:is_desert"
-                    
-
                 ]
             }
         }

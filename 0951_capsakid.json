@@ -8,13 +8,16 @@
             "pokemon": "capsakid",
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "common",
-            "level": "4-25",
-            "weight": 4.5,
+            "bucket": "uncommon",
+            "level": "10-25",
+            "weight": 3.8,
             "condition": {
+                "timeRange": "day",
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_savanna"
+                    "#cobblemon:is_arid",
+                    "#cobblemon:is_savanna",
+                    "#cobblemon:is_badlands"
                 ]
             }
         }

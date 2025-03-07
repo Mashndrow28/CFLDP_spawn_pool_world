@@ -31,7 +31,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "45-55",
-            "weight": 9.0,
+            "weight": 4.5,
             "condition": {
                 "minSkyLight": 0,
                 "maxSkyLight": 7,

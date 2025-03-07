@@ -15,8 +15,10 @@
             "level": "9-20",
             "weight": 2.0,
             "condition": {
+                "timeRange": "night",
                 "canSeeSky": true,
                 "biomes": [
+                    "#cobblemon:is_taiga",
                     "#cobblemon:is_forest"
                 ]
             },
@@ -40,6 +42,7 @@
             "level": "9-20",
             "weight": 2.0,
             "condition": {
+                "timeRange": "night",
                 "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_plains"

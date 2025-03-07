@@ -14,8 +14,9 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "45-52",
-            "weight": 6.2,
+            "weight": 3.7,
             "condition": {
+                "timeRange": "day",
                 "biomes": [
                     "#cobblemon:is_beach"
                 ]

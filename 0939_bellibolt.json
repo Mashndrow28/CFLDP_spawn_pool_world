@@ -8,14 +8,13 @@
             "pokemon": "bellibolt",
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
+            "bucket": "rare",
             "level": "15-32",
-            "weight": 1.8,
+            "weight": 2.9,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "minecraft:mangrove_swamp",
-                    "minecraft:swamp"
+                    "cobblemon:is_swamp"
                 ]
             }
         }

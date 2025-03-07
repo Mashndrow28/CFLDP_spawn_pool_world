@@ -13,12 +13,13 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "37-45",
-            "weight": 7.0,
+            "weight": 5.2,
             "condition": {
                 "canSeeSky": false,
                 "minHeight":2,
+                "timeRange": "night",
                 "biomes": [
-                    "minecraft:deep_dark"
+                    "#cobblemon:is_cave"
                 ]
             }
         },

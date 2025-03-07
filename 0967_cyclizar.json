@@ -13,10 +13,12 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "30-50",
-            "weight": 5.0,
+            "weight": 3.7,
             "condition": {
+                "timeRange": "day",
                 "biomes": [
-                    "#cobblemon:is_desert"
+                    "#cobblemon:is_arid",
+                    "#cobblemon:is_savanna"
                 ]
             }
         }

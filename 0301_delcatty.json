@@ -24,9 +24,8 @@
         "condition": {
             "canSeeSky": true,
             "biomes": [
-                "#cobblemon:is_overworld"
-            ],
-            "isRaining": false
+                "minecraft:cherry_grove"
+            ]
         },
         "anticondition": {
             "biomes": [
@@ -57,36 +56,16 @@
         "condition": {
             "canSeeSky": true,
             "biomes": [
-                "#cobblemon:is_arid"
+                "#cobblemon:is_forest"
             ]
         },
         "anticondition": {
             "structures": [
                 "#minecraft:village"
-            ]
-        }
-      },
-      {
-        "id": "delcatty-3",
-        "pokemon": "delcatty",
-        "presets": [
-            "natural"
-        ],
-        "type": "pokemon",
-        "context": "grounded",
-        "bucket": "uncommon",
-        "level": "15-55",
-        "weight": 4.0,
-        "weightMultiplier": {
-            "multiplier": 1.5,
-            "condition": {
-                "timeRange": "night"
-            }
-        },
-        "condition": {
-            "canSeeSky": true,
+            ],
             "biomes": [
-                "minecraft:cherry_grove"
+                "#cobblemon:is_arid",
+                "#cobblemon:is_freezing"
             ]
         }
       }

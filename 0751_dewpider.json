@@ -29,7 +29,26 @@
             "context": "surface",
             "bucket": "common",
             "level": "6-21",
-            "weight": 5,
+            "weight": 4.7,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_river",
+					"#cobblemon:is_freshwater"
+                ]
+            }
+        },
+        {
+			"id": "dewpider-3",
+            "pokemon": "dewpider",
+			"presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "fishing",
+            "bucket": "uncommon",
+            "level": "6-21",
+            "weight": 3.1,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
