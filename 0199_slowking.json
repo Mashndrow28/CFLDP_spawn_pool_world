@@ -13,28 +13,32 @@
             "context": "grounded",
             "bucket": "common",
             "level": "37-49",
-            "weight": 0.06,
+            "weight": 0.1,
             "condition": {
+                "timeRange": "6000-13000",
                 "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_beach"
                 ]
             }
         },
-   {
-     "id": "slowking2",
-     "pokemon": "slowking-galarian",
-     "presets": [ "natural" ],
-     "type": "pokemon",
-     "context": "grounded",
-     "bucket": "rare",
-     "level": "30-50",
-     "weight": 2.0,
-     "condition":  {
-      "biomes": [
-          "minecraft:mangrove_swamp"
-      ]
-  }
-}
+        {
+            "id": "slowking-2",
+            "pokemon": "slowking-galarian",
+            "presets": [ 
+                "natural" 
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "30-50",
+            "weight": 1.2,
+            "condition":  {
+                "timeRange": "6000-13000",
+                "biomes": [
+                    "minecraft:mangrove_swamp"
+                ]
+            }
+        }
     ]
 }

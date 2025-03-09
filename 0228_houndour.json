@@ -13,16 +13,16 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "7-21",
-            "weight": 5.0,
+            "weight": 3.2,
             "condition": {
-				
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_sandy"
+                    "#cobblemon:is_sandy",
+                    "#cobblemon:is_arid"
                 ],
 				"structures": [
-	         "#minecraft:village"
-	        ],
+	                "#minecraft:village"
+	            ],
                 "timeRange": "night"
             }
       	  
@@ -39,7 +39,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "15-34",
-            "weight": 10,
+            "weight": 5.7,
             "condition": {
                 "canSeeSky": false,
                 "biomes": [

@@ -18,7 +18,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_overworld"
+                    "minecraft:birch_forest"
                 ]
             },
             "anticondition": {
@@ -42,7 +42,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_overworld"
+                    "minecraft:birch_forest"
                 ]
             },
             "anticondition": {
@@ -65,7 +65,7 @@
             "condition": {
                 "canSeeSky": false,
                 "biomes": [
-                    "#cobblemon:is_overworld"
+                    "minecraft:birch_forest"
                 ]
             }
         },
@@ -79,11 +79,11 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "26-46",
-            "weight": 8.0,
+            "weight": 4.4,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_freezing"
+                    "#cobblemon:is_snowy_forest"
                 ]
             }
         },
@@ -97,11 +97,11 @@
         "context": "grounded",
         "bucket": "rare",
         "level": "26-46",
-        "weight": 8.0,
+        "weight": 4.4,
         "condition": {
             "canSeeSky": true,
             "biomes": [
-                "#cobblemon:is_freezing"
+                "#cobblemon:is_snowy_forest"
             ]
         }
     }

@@ -10,7 +10,7 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "15-48",
-            "weight": 7.8,
+            "weight": 5.8,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [

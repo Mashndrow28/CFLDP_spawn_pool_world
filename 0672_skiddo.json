@@ -9,12 +9,14 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
-            "level": "5-20",
-            "weight": 8.0,
+            "level": "10-20",
+            "weight": 6.2,
             "condition": {
+                "minY": 120,
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_hills"
+                    "#cobblemon:is_hills",
+                    "#cobblemon:is_snowy_taiga"
                 ]
             }
         }

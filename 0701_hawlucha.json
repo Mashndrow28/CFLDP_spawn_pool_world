@@ -12,9 +12,10 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "rare",
-            "level": "20-60",
-            "weight": 5.0,
+            "level": "25-41",
+            "weight": 3.7,
             "condition": {
+                "timeRange": "6000-12000",
                 "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_mountain"

@@ -62,6 +62,24 @@
                     "betterend:dragon_graveyards"
                 ]
             }
+        },
+        {
+            "id": "fraxure-4",
+            "pokemon": "fraxure",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "36-48",
+            "weight": 1.4,
+            "condition": {
+                "timeRange": "1000-13000",
+                "biomes": [
+                    "#cobblemon:is_jungle"
+                ]
+            }
         }
     ]
 }

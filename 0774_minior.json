@@ -14,8 +14,8 @@
             "level": "20-30",
             "weight": 5.0,
             "condition": {
-		"timeRange": "night",
-		"biomes": [
+                "timeRange": "night",
+                "biomes": [
                     "#cobblemon:is_overworld"
                 ]
             }
@@ -139,7 +139,7 @@
             "weight": 2.35,
             "condition": {
                 "biomes": [
-                    "#minecraft:is_end"
+                    "#cobblemon:is_end"
                 ]
             }
         }

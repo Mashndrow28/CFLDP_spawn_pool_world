@@ -15,6 +15,7 @@
             "level": "40-50",
             "weight": 2.0,
             "condition": {
+                "minY": 140,
                 "biomes": [
                     "#cobblemon:is_freezing"
                 ]

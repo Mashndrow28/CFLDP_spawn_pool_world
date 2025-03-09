@@ -14,7 +14,7 @@
         "context": "grounded",
         "bucket": "common",
         "level": "1-35",
-        "weight": 8.0,
+        "weight": 5.2,
         "weightMultiplier": {
             "multiplier": 1.5,
             "condition": {
@@ -24,7 +24,8 @@
         "condition": {
             "canSeeSky": true,
             "biomes": [
-                "#cobblemon:is_swamp"
+                "#cobblemon:is_swamp",
+                "#cobblemon:is_forest"
             ]
         }
 

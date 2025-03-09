@@ -15,26 +15,30 @@
             "level": "7-32",
             "weight": 5.4,
             "condition": {
+                "timeRange": "6000-13000",
                 "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_beach"
                 ]
             }
         },
-   {
-     "id": "slowpoke-galarian-2",
-     "pokemon": "slowpoke galarian",
-     "presets": [ "natural" ],
-     "type": "pokemon",
-     "context": "grounded",
-     "bucket": "uncommon",
-     "level": "10-25",
-     "weight": 6.0,
-     "condition":  {
-      "biomes": [
-          "minecraft:mangrove_swamp"
-      ]
-  }
-}
+        {
+            "id": "slowpoke-galarian-2",
+            "pokemon": "slowpoke galarian",
+            "presets": [ 
+                "natural" 
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "10-25",
+            "weight": 1.2,
+            "condition":  {
+                "timeRange": "6000-13000",
+                "biomes": [
+                    "minecraft:mangrove_swamp"
+                ]
+            }
+        }
     ]
 }

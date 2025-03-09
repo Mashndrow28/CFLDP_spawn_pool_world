@@ -7,7 +7,7 @@
             "id": "runerigus-1",
             "pokemon": "runerigus",
             "presets": [
-                "underground"
+                "ancient_city"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -16,15 +16,39 @@
             "weight": 2.0,
             "condition": {
                 "maxLight": 7,
-                "neededNearbyBlocks": [
-                    "minecraft:stone_bricks",
-                    "minecraft:cracked_stone_bricks",
-                    "minecraft:mossy_stone_bricks"
-                ],
-                "neededBaseBlocks": [
-                    "minecraft:stone_bricks"
-                ],
                 "maxY": 60
+            }
+        },
+        {
+            "id": "runerigus-2",
+            "pokemon": "runerigus",
+            "presets": [
+                "derelict"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "45-66",
+            "weight": 18.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "#cobblemon:is_abyss"
+                ]
+            }
+        },
+		{
+            "id": "runerigus-3",
+            "pokemon": "runerigus",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "50-76",
+            "weight": 3.2,
+            "condition": {
+                "biomes": [
+                    "nullscape:void_barrens"
+                ]
             }
         }
     ]

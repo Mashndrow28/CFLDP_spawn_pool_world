@@ -15,14 +15,14 @@
             "level": "32-42",
             "weight": 1.0,
             "condition": {
-				
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_sandy"
+                    "#cobblemon:is_sandy",
+                    "#cobblemon:is_arid"
                 ],
 				"structures": [
-	         "#minecraft:village"
-	        ],
+	                "#minecraft:village"
+	            ],
                 "timeRange": "night"
             }
       	  

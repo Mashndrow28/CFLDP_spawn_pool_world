@@ -21,6 +21,20 @@
                 ],
                 "timeRange": "night"
             }
-      	  }
-		  ]
+      	},
+        {
+            "id": "greavard-2",
+            "pokemon": "greavard",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "5-35",
+            "weight": 2.6,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_end"
+                ]
+            } 
+        }
+	]
 }

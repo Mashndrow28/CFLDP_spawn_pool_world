@@ -13,12 +13,30 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "15-34",
-            "weight": 20.0,
+            "weight": 10.0,
             "condition": {
                 "canSeeSky": true,
-		"minY": 100,
+		        "minY": 100,
                 "biomes": [
                     "#cobblemon:is_mountain"
+                ]
+            }
+        },
+        {
+            "id": "swablu-2",
+            "pokemon": "swablu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-34",
+            "weight": 3.9,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_magical"
                 ]
             }
         }

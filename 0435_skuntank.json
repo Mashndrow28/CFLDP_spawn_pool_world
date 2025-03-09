@@ -12,9 +12,9 @@
         ],
         "type": "pokemon",
         "context": "grounded",
-        "bucket": "uncommon",
+        "bucket": "rare",
         "level": "20-55",
-        "weight": 8.0,
+        "weight": 4.1,
         "weightMultiplier": {
             "multiplier": 1.5,
             "condition": {
@@ -24,10 +24,10 @@
         "condition": {
             "canSeeSky": true,
             "biomes": [
-                "#cobblemon:is_swamp"
+                "#cobblemon:is_swamp",
+                "#cobblemon:is_forest"
             ]
         }
-
       }
     ]
 }

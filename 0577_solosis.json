@@ -39,6 +39,24 @@
                     "#cobblemon:is_end"
                 ]
             }
+        },
+        {
+            "id": "solosis-3",
+            "pokemon": "solosis",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "19-29",
+            "weight": 2.2,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_swamp"
+                ]
+            }
         }
     ]
 }

@@ -8,13 +8,15 @@
         "pokemon": "lokix",
         "type": "pokemon",
         "context": "grounded",
-        "bucket": "uncommon",
+        "bucket": "rare",
         "level": "25-46",
-        "weight": 1.1,
+        "weight": 1.9,
         "condition": {
           "canSeeSky": true,
-          "biomes": [ "minecraft:plains"
-                    ]
+          "biomes": [ 
+            "#cobblemon:is_plains",
+            "#cobblemon:is_savanna"
+          ]
         }
         
       },

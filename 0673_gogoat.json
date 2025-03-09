@@ -13,8 +13,10 @@
             "weight": 3.8,
             "condition": {
                 "canSeeSky": true,
+                "minY": 120,
                 "biomes": [
-                    "#cobblemon:is_hills"
+                    "#cobblemon:is_hills",
+                    "#cobblemon:is_snowy_taiga"
                 ]
             }
         }

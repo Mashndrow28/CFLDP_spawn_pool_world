@@ -40,9 +40,9 @@
             "pokemon": "lycanroc dusk",
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
+            "bucket": "ultra-rare",
             "level": "29-45",
-            "weight": 2.5,
+            "weight": 3.9,
             "condition": {
                 "timeRange": "12750-13650",
                 "canSeeSky": true,

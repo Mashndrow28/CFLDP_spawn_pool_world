@@ -10,13 +10,14 @@
             "context": "grounded",
             "bucket": "common",
             "level": "4-25",
-            "weight": 9.0,
+            "weight": 5.7,
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_plains"
+                    "#cobblemon:is_plains",
+                    "#cobblemon:is_floral"
                 ],
-                "timeRange": "day",
+                "timeRange": "6000-12000",
                 "isRaining": false
             }
         }

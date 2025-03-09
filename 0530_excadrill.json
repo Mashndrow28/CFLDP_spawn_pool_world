@@ -12,11 +12,11 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
-            "level": "25-51",
-            "weight": 1.25,
+            "level": "25-41",
+            "weight": 2.2,
             "condition": {
                 "canSeeSky": false,
-				"minY": 0,
+				"minY": 50,
                 "biomes": [
                     "#cobblemon:is_overworld"
                 ]

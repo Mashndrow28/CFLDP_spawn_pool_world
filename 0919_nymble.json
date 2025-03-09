@@ -10,11 +10,13 @@
         "context": "grounded",
         "bucket": "common",
         "level": "7-25",
-        "weight": 6.0,
+        "weight": 4.9,
         "condition": {
           "canSeeSky": true,
-          "biomes": [ "minecraft:plains"
-                    ]
+          "biomes": [ 
+              "#cobblemon:is_plains",
+              "#cobblemon:is_savanna"
+          ]
         }
         
       },
@@ -25,7 +27,7 @@
         "context": "grounded",
         "bucket": "common",
         "level": "7-22",
-        "weight": 6.0,
+        "weight": 5.2,
         "condition": {
           "canSeeSky": true,
           "biomes": [ "#cminecraft:is_forest"]

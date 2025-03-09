@@ -63,6 +63,24 @@
                     "betterend:dragon_graveyards"
                 ]
             }
+        },
+        {
+            "id": "haxorus-4",
+            "pokemon": "haxorus",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "46-52",
+            "weight": 1.3,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_jungle"
+                ]
+            }
         }
     ]
 }

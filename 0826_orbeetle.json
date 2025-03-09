@@ -15,9 +15,11 @@
             "level": "27-39",
             "weight": 1.0,
             "condition": {
+                "timeRange": "1000-13000",
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_temperate"
+                    "#cobblemon:is_temperate",
+                    "#cobblemon:is_taiga"
                 ]
             },
             "anticondition": {

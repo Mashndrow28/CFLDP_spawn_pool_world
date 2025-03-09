@@ -17,7 +17,31 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_sandy"
+                    "#cobblemon:is_arid"
+                ]
+            }
+        },
+        {
+            "id": "orthworm-2",
+            "pokemon": "orthworm",
+            "presets": [
+                "underground"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "25-41",
+            "weight": 2.5,
+            "condition": {
+                "canSeeSky": false,
+				"maxY": 64,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
                 ]
             }
         }

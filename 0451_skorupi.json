@@ -34,12 +34,11 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "20-27",
-            "weight": 7.6,
+            "weight": 6.1,
             "condition": {
                 "biomes": [
-                    "#cobblemon:is_desert"
-                    
-
+                    "#cobblemon:is_desert",
+                    "#cobblemon:is_arid"
                 ]
             }
         }

@@ -10,7 +10,7 @@
             "context": "grounded",
             "bucket": "uncommon",
             "level": "15-40",
-            "weight": 9.0,
+            "weight": 10.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_overworld"

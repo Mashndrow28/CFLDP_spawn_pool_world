@@ -11,12 +11,12 @@
       ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "uncommon",
+      "bucket": "rare",
       "level": "20-65",
-      "weight": 7.0,
+      "weight": 4.4,
       "condition": {
           "biomes": [
-              "#minecraft:is_end"
+              "#cobblemon:is_end"
           ]
       }
 
