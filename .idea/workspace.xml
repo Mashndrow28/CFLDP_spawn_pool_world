@@ -6,79 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="529b4aa8-2863-411b-9e11-c7437fa8149c" name="Changes" comment="- Final Touch before 0.5 Release">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0079_slowpoke.json" beforeDir="false" afterPath="$PROJECT_DIR$/0079_slowpoke.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0080_slowbro.json" beforeDir="false" afterPath="$PROJECT_DIR$/0080_slowbro.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0122_mrmime.json" beforeDir="false" afterPath="$PROJECT_DIR$/0122_mrmime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0183_marill.json" beforeDir="false" afterPath="$PROJECT_DIR$/0183_marill.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0187_hoppip.json" beforeDir="false" afterPath="$PROJECT_DIR$/0187_hoppip.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0188_skiploom.json" beforeDir="false" afterPath="$PROJECT_DIR$/0188_skiploom.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0189_jumpluff.json" beforeDir="false" afterPath="$PROJECT_DIR$/0189_jumpluff.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0199_slowking.json" beforeDir="false" afterPath="$PROJECT_DIR$/0199_slowking.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0201_unown.json" beforeDir="false" afterPath="$PROJECT_DIR$/0201_unown.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0228_houndour.json" beforeDir="false" afterPath="$PROJECT_DIR$/0228_houndour.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0229_houndoom.json" beforeDir="false" afterPath="$PROJECT_DIR$/0229_houndoom.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0307_meditite.json" beforeDir="false" afterPath="$PROJECT_DIR$/0307_meditite.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0308_medicham.json" beforeDir="false" afterPath="$PROJECT_DIR$/0308_medicham.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0333_swablu.json" beforeDir="false" afterPath="$PROJECT_DIR$/0333_swablu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0361_snorunt.json" beforeDir="false" afterPath="$PROJECT_DIR$/0361_snorunt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0362_glalie.json" beforeDir="false" afterPath="$PROJECT_DIR$/0362_glalie.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0431_glameow.json" beforeDir="false" afterPath="$PROJECT_DIR$/0431_glameow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0434_stunky.json" beforeDir="false" afterPath="$PROJECT_DIR$/0434_stunky.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0435_skuntank.json" beforeDir="false" afterPath="$PROJECT_DIR$/0435_skuntank.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0451_skorupi.json" beforeDir="false" afterPath="$PROJECT_DIR$/0451_skorupi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0478_froslass.json" beforeDir="false" afterPath="$PROJECT_DIR$/0478_froslass.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0530_excadrill.json" beforeDir="false" afterPath="$PROJECT_DIR$/0530_excadrill.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0540_sewaddle.json" beforeDir="false" afterPath="$PROJECT_DIR$/0540_sewaddle.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0541_swadloon.json" beforeDir="false" afterPath="$PROJECT_DIR$/0541_swadloon.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0542_leavanny.json" beforeDir="false" afterPath="$PROJECT_DIR$/0542_leavanny.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0574_gothita.json" beforeDir="false" afterPath="$PROJECT_DIR$/0574_gothita.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0575_gothorita.json" beforeDir="false" afterPath="$PROJECT_DIR$/0575_gothorita.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0576_gothitelle.json" beforeDir="false" afterPath="$PROJECT_DIR$/0576_gothitelle.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0577_solosis.json" beforeDir="false" afterPath="$PROJECT_DIR$/0577_solosis.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0579_reuniclus.json" beforeDir="false" afterPath="$PROJECT_DIR$/0579_reuniclus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0581_swanna.json" beforeDir="false" afterPath="$PROJECT_DIR$/0581_swanna.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0590_foongus.json" beforeDir="false" afterPath="$PROJECT_DIR$/0590_foongus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0602_tynamo.json" beforeDir="false" afterPath="$PROJECT_DIR$/0602_tynamo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0603_eelektrik.json" beforeDir="false" afterPath="$PROJECT_DIR$/0603_eelektrik.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0604_eelektross.json" beforeDir="false" afterPath="$PROJECT_DIR$/0604_eelektross.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0611_fraxure.json" beforeDir="false" afterPath="$PROJECT_DIR$/0611_fraxure.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0612_haxorus.json" beforeDir="false" afterPath="$PROJECT_DIR$/0612_haxorus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0624_pawniard.json" beforeDir="false" afterPath="$PROJECT_DIR$/0624_pawniard.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0629_vullaby.json" beforeDir="false" afterPath="$PROJECT_DIR$/0629_vullaby.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0630_mandibuzz.json" beforeDir="false" afterPath="$PROJECT_DIR$/0630_mandibuzz.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0667_litleo.json" beforeDir="false" afterPath="$PROJECT_DIR$/0667_litleo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0672_skiddo.json" beforeDir="false" afterPath="$PROJECT_DIR$/0672_skiddo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0673_gogoat.json" beforeDir="false" afterPath="$PROJECT_DIR$/0673_gogoat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0677_espurr.json" beforeDir="false" afterPath="$PROJECT_DIR$/0677_espurr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0678_meowstic.json" beforeDir="false" afterPath="$PROJECT_DIR$/0678_meowstic.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0701_hawlucha.json" beforeDir="false" afterPath="$PROJECT_DIR$/0701_hawlucha.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0744_rockruff.json" beforeDir="false" afterPath="$PROJECT_DIR$/0744_rockruff.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0745_lycanroc.json" beforeDir="false" afterPath="$PROJECT_DIR$/0745_lycanroc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0774_minior.json" beforeDir="false" afterPath="$PROJECT_DIR$/0774_minior.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0777_togedemaru.json" beforeDir="false" afterPath="$PROJECT_DIR$/0777_togedemaru.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0826_orbeetle.json" beforeDir="false" afterPath="$PROJECT_DIR$/0826_orbeetle.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0848_toxel.json" beforeDir="false" afterPath="$PROJECT_DIR$/0848_toxel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0854_sinistea.json" beforeDir="false" afterPath="$PROJECT_DIR$/0854_sinistea.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0855_polteageist.json" beforeDir="false" afterPath="$PROJECT_DIR$/0855_polteageist.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0866_mrrime.json" beforeDir="false" afterPath="$PROJECT_DIR$/0866_mrrime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0867_runerigus.json" beforeDir="false" afterPath="$PROJECT_DIR$/0867_runerigus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0873_frosmoth.json" beforeDir="false" afterPath="$PROJECT_DIR$/0873_frosmoth.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0877_morpeko.json" beforeDir="false" afterPath="$PROJECT_DIR$/0877_morpeko.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0919_nymble.json" beforeDir="false" afterPath="$PROJECT_DIR$/0919_nymble.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0920_lokix.json" beforeDir="false" afterPath="$PROJECT_DIR$/0920_lokix.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0921_pawmi.json" beforeDir="false" afterPath="$PROJECT_DIR$/0921_pawmi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0922_pawmo.json" beforeDir="false" afterPath="$PROJECT_DIR$/0922_pawmo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0923_pawmot.json" beforeDir="false" afterPath="$PROJECT_DIR$/0923_pawmot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0938_tadbulb.json" beforeDir="false" afterPath="$PROJECT_DIR$/0938_tadbulb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0939_bellibolt.json" beforeDir="false" afterPath="$PROJECT_DIR$/0939_bellibolt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0948_toedscool.json" beforeDir="false" afterPath="$PROJECT_DIR$/0948_toedscool.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0949_toedscruel.json" beforeDir="false" afterPath="$PROJECT_DIR$/0949_toedscruel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0952_scovillain.json" beforeDir="false" afterPath="$PROJECT_DIR$/0952_scovillain.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0968_orthworm.json" beforeDir="false" afterPath="$PROJECT_DIR$/0968_orthworm.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0971_greavard.json" beforeDir="false" afterPath="$PROJECT_DIR$/0971_greavard.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0972_houndstone.json" beforeDir="false" afterPath="$PROJECT_DIR$/0972_houndstone.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0996_frigibax.json" beforeDir="false" afterPath="$PROJECT_DIR$/0996_frigibax.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1012_poltchageist.json" beforeDir="false" afterPath="$PROJECT_DIR$/1012_poltchageist.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741360974078</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="- Final Touch before 0.5 Release">
+      <option name="closed" value="true" />
+      <created>1741561999367</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741561999367</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

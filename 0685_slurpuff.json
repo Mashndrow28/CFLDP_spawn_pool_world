@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "aromatisse-1",
-            "pokemon": "aromatisse",
+            "id": "slurpuff-1",
+            "pokemon": "slurpuff",
             "presets": [
                 "natural"
             ],
@@ -22,8 +22,8 @@
             }
         },
         {
-            "id": "aromatisse-2",
-            "pokemon": "aromatisse",
+            "id": "slurpuff-2",
+            "pokemon": "slurpuff",
             "presets": [
                 "natural"
             ],
@@ -35,13 +35,13 @@
             "condition": {
                 "timeRange": "12000-23000",
                 "biomes": [
-                    "#cobblemon:is_jungle"
+                    "minecraft:birch_forest"
                 ]
             }
         },
         {
-            "id": "aromatisse-3",
-            "pokemon": "aromatisse",
+            "id": "slurpuff-3",
+            "pokemon": "slurpuff",
             "presets": [
                 "natural"
             ],
