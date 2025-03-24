@@ -7,13 +7,13 @@
             "id": "lechonk-1",
             "pokemon": "lechonk",
             "presets": [
-                "natural"
+                "grass"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
             "level": "1-25",
-            "weight": 9.0,
+            "weight": 7.0,
             "weightMultiplier": {
                 "multiplier": 0.25,
                 "condition": {
@@ -21,16 +21,15 @@
                 }
             },
             "condition": {
-                "minSkyLight": 8,
+                "minSkyLight": 9,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_mushroom",
-                    "#cobblemon:is_temperate"
+                    "#cobblemon:is_overworld"
                 ]
             },
             "anticondition": {
                 "biomes": [
-                    "minecraft:mushroom_fields"
+                    "#cobblemon:is_freezing"
                 ]
             }
         },
@@ -80,6 +79,36 @@
             "anticondition": {
                 "biomes": [
                     "#cobblemon:nether/is_warped"
+                ]
+            }
+        },
+        {
+            "id": "lechonk-4",
+            "pokemon": "lechonk",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-25",
+            "weight": 3.0,
+            "weightMultiplier": {
+                "multiplier": 0.25,
+                "condition": {
+                    "timeRange": "night"
+                }
+            },
+            "condition": {
+                "minSkyLight": 9,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_taiga"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
                 ]
             }
         }

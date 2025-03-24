@@ -20,6 +20,24 @@
                     "#cobblemon:is_jungle"
                 ]
             }
+        },
+        {
+            "id": "pangoro-2",
+            "pokemon": "pangoro",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "30-51",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_bamboo"
+                ]
+            }
         }
     ]
 }

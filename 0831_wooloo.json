@@ -7,13 +7,13 @@
             "id": "wooloo-1",
             "pokemon": "wooloo",
             "presets": [
-                "natural"
+                "grass"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
             "level": "2-27",
-            "weight": 9.0,
+            "weight": 25.0,
             "weightMultiplier": {
                 "multiplier": 0.25,
                 "condition": {
@@ -24,8 +24,12 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_mountain",
-                    "#cobblemon:is_plains"
+                    "#cobblemon:is_overworld"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
                 ]
             }
         },

@@ -7,7 +7,7 @@
             "id": "miltank-1",
             "pokemon": "miltank",
             "presets": [
-                "natural"
+                "grass"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -21,10 +21,10 @@
                 }
             },
             "condition": {
-                "minSkyLight": 8,
+                "minSkyLight": 7,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_grassland"
+                    "#cobblemon:is_overworld"
                 ]
             }
         },
@@ -38,7 +38,7 @@
             "context": "grounded",
             "bucket": "common",
             "level": "24-49",
-            "weight": 9.9,
+            "weight": 10.0,
             "weightMultiplier": {
                 "multiplier": 0.25,
                 "condition": {

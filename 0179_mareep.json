@@ -7,7 +7,7 @@
             "id": "mareep-1",
             "pokemon": "mareep",
             "presets": [
-                "natural"
+                "grass"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -32,8 +32,7 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_highlands",
-                    "#cobblemon:is_plains"
+                    "#cobblemon:is_overworld"
                 ]
             }
         }

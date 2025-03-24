@@ -20,6 +20,24 @@
                     "#cobblemon:is_jungle"
                 ]
             }
+        },
+        {
+            "id": "pancham-2",
+            "pokemon": "pancham",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-31",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_bamboo"
+                ]
+            }
         }
     ]
 }
