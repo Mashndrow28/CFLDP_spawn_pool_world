@@ -23,6 +23,11 @@
                     "#cobblemon:is_temperate",
                     "#cobblemon:is_tundra"
                 ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
+                ]
             }
         }
     ]

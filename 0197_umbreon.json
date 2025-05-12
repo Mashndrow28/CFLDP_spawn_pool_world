@@ -92,7 +92,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "53-90",
-            "weight": 50.0,
+            "weight": 40.0,
             "condition": {
                 "biomes": [
                     "nullscape:void_barrens"

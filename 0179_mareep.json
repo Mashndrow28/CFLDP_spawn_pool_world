@@ -34,11 +34,6 @@
                 "biomes": [
                     "#cobblemon:is_overworld"
                 ]
-            },
-            "anticondition": {
-                "biomes": [
-                    "#cobblemon:is_freezing"
-                ]
             }
         }
     ]

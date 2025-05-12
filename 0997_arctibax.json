@@ -10,7 +10,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "25-35",
-            "weight": 3.2,
+            "weight": 2.2,
             "condition": {
                 "timeRange": "night",
                 "canSeeSky": true,
@@ -32,7 +32,7 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "25-35",
-            "weight": 3.2,
+            "weight": 2.2,
             "condition": {
                 "timeRange": "night",
                 "canSeeSky": false,
